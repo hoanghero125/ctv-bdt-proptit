@@ -36,7 +36,7 @@ Hải đưa cho Hoàng một dãy $a_1, a_2, \dots, a_n$. Cô đố Hoàng đế
 
 ## Chấm điểm
 
-| Điểm | Ràng buộc bổ sung |
+| Điểm (%) | Ràng buộc bổ sung |
 |------|-------------------|
 | $4\%$ | $n \le 5$ |
 | $8\%$ | $n \le 20$ |
