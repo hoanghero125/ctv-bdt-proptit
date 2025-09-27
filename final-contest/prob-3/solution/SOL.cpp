@@ -40,8 +40,8 @@ void init() {
 }
 
 int main() {
-    freopen("MAXSUM.inp", "r", stdin);
-    freopen("MAXSUM.out", "w", stdout);
+    // freopen("MAXSUM.inp", "r", stdin);
+    // freopen("MAXSUM.out", "w", stdout);
     scanf("%d%d", &n, &k);
     for (int i=1;i<=n;i++) {
         scanf("%d", &a[i]);
