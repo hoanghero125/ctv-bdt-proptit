@@ -23,7 +23,7 @@ Ví dụ, $(1,2,1,2,1,4,4)$ là một dãy đẹp vì có thể xóa dãy như s
 
 Hải đưa cho Hoàng một dãy $a_1, a_2, \dots, a_n$. Cô đố Hoàng đếm xem có bao nhiêu đoạn con liên tiếp của dãy $a$ là dãy đẹp. Tuy nhiên Hoàng còn bận làm một số việc khác nên không chưa thể trả lời câu hỏi này. Bạn hãy trả lời giúp Hoàng nhé.
 
-*Đoạn con liên tiếp là một đoạn con thu được bằng cách xóa không, một hoặc một vài phần tử ở đầu và cuối dãy và giữ nguyên thứ tự các phần tử còn lại. Ví dụ, $(3, 4), (3, 4, 5)$ hay $(1)$ đều là các đoạn con liên tiếp của $(1, 2, 3, 4, 5)$ nhưng $(1, 3)$ hay $(3, 2)$ thì không. Đoạn con liên tiếp gồm các phần tử ở vị trí thứ $l$ đến vị trí thứ $r$ có thể được gọi là đoạn $(l, r)$.*
+Đoạn con liên tiếp là một đoạn con thu được bằng cách xóa không, một hoặc một vài phần tử ở đầu và cuối dãy và giữ nguyên thứ tự các phần tử còn lại. Ví dụ, $(3, 4), (3, 4, 5)$ hay $(1)$ đều là các đoạn con liên tiếp của $(1, 2, 3, 4, 5)$ nhưng $(1, 3)$ hay $(3, 2)$ thì không. Đoạn con liên tiếp gồm các phần tử ở vị trí thứ $l$ đến vị trí thứ $r$ có thể được gọi là đoạn $(l, r)$.
 
 ## Dữ liệu:
 
